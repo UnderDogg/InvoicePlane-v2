@@ -2,7 +2,7 @@
 #### _Version 2.0.0 alpha_
 
 InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments.    
-For more information visit __[InvoicePlane.com](https://invoiceplane.com).
+For more information visit __[InvoicePlane.com](https://invoiceplane.com)__.
 
 ---
 
